@@ -1,0 +1,7 @@
+D:\C++\ШАГ 08.02.24\ШАГ 08.02.24\bin\Debug\ШАГ 08.02.24.exe.config
+D:\C++\ШАГ 08.02.24\ШАГ 08.02.24\bin\Debug\ШАГ 08.02.24.exe
+D:\C++\ШАГ 08.02.24\ШАГ 08.02.24\bin\Debug\ШАГ 08.02.24.pdb
+D:\C++\ШАГ 08.02.24\ШАГ 08.02.24\obj\Debug\ШАГ 08.02.24.csproj.AssemblyReference.cache
+D:\C++\ШАГ 08.02.24\ШАГ 08.02.24\obj\Debug\ШАГ 08.02.24.csproj.CoreCompileInputs.cache
+D:\C++\ШАГ 08.02.24\ШАГ 08.02.24\obj\Debug\ШАГ 08.02.24.exe
+D:\C++\ШАГ 08.02.24\ШАГ 08.02.24\obj\Debug\ШАГ 08.02.24.pdb
