@@ -1,0 +1,7 @@
+D:\C#\ШАГ 26.03.24\ШАГ 26.03.24\bin\Debug\ШАГ 26.03.24.exe.config
+D:\C#\ШАГ 26.03.24\ШАГ 26.03.24\bin\Debug\ШАГ 26.03.24.exe
+D:\C#\ШАГ 26.03.24\ШАГ 26.03.24\bin\Debug\ШАГ 26.03.24.pdb
+D:\C#\ШАГ 26.03.24\ШАГ 26.03.24\obj\Debug\ШАГ 26.03.24.csproj.AssemblyReference.cache
+D:\C#\ШАГ 26.03.24\ШАГ 26.03.24\obj\Debug\ШАГ 26.03.24.csproj.CoreCompileInputs.cache
+D:\C#\ШАГ 26.03.24\ШАГ 26.03.24\obj\Debug\ШАГ 26.03.24.exe
+D:\C#\ШАГ 26.03.24\ШАГ 26.03.24\obj\Debug\ШАГ 26.03.24.pdb
