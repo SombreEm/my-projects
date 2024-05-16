@@ -1,0 +1,7 @@
+D:\C#\steamC#\steamC#\bin\Debug\steamC#.exe.config
+D:\C#\steamC#\steamC#\bin\Debug\steamC#.exe
+D:\C#\steamC#\steamC#\bin\Debug\steamC#.pdb
+D:\C#\steamC#\steamC#\obj\Debug\steamC#.csproj.AssemblyReference.cache
+D:\C#\steamC#\steamC#\obj\Debug\steamC#.csproj.CoreCompileInputs.cache
+D:\C#\steamC#\steamC#\obj\Debug\steamC#.exe
+D:\C#\steamC#\steamC#\obj\Debug\steamC#.pdb
