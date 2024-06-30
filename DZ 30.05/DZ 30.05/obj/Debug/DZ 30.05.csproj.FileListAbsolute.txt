@@ -1,0 +1,10 @@
+D:\C#\DZ 30.05\DZ 30.05\bin\Debug\DZ 30.05.exe.config
+D:\C#\DZ 30.05\DZ 30.05\bin\Debug\DZ 30.05.exe
+D:\C#\DZ 30.05\DZ 30.05\bin\Debug\DZ 30.05.pdb
+D:\C#\DZ 30.05\DZ 30.05\obj\Debug\DZ 30.05.csproj.AssemblyReference.cache
+D:\C#\DZ 30.05\DZ 30.05\obj\Debug\DZ_30._05.Form1.resources
+D:\C#\DZ 30.05\DZ 30.05\obj\Debug\DZ_30._05.Properties.Resources.resources
+D:\C#\DZ 30.05\DZ 30.05\obj\Debug\DZ 30.05.csproj.GenerateResource.cache
+D:\C#\DZ 30.05\DZ 30.05\obj\Debug\DZ 30.05.csproj.CoreCompileInputs.cache
+D:\C#\DZ 30.05\DZ 30.05\obj\Debug\DZ 30.05.exe
+D:\C#\DZ 30.05\DZ 30.05\obj\Debug\DZ 30.05.pdb
