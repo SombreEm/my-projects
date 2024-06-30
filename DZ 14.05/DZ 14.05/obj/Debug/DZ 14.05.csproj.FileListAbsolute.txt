@@ -1,0 +1,7 @@
+D:\C#\DZ 14.05\DZ 14.05\bin\Debug\DZ 14.05.exe.config
+D:\C#\DZ 14.05\DZ 14.05\bin\Debug\DZ 14.05.exe
+D:\C#\DZ 14.05\DZ 14.05\bin\Debug\DZ 14.05.pdb
+D:\C#\DZ 14.05\DZ 14.05\obj\Debug\DZ 14.05.csproj.AssemblyReference.cache
+D:\C#\DZ 14.05\DZ 14.05\obj\Debug\DZ 14.05.csproj.CoreCompileInputs.cache
+D:\C#\DZ 14.05\DZ 14.05\obj\Debug\DZ 14.05.exe
+D:\C#\DZ 14.05\DZ 14.05\obj\Debug\DZ 14.05.pdb
