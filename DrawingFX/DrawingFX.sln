@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawingFX", "DrawingFX\DrawingFX.csproj", "{19E59035-8024-4B98-B341-B3C7C166A375}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19E59035-8024-4B98-B341-B3C7C166A375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19E59035-8024-4B98-B341-B3C7C166A375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19E59035-8024-4B98-B341-B3C7C166A375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19E59035-8024-4B98-B341-B3C7C166A375}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34CB920D-5CBD-45D4-9C3A-927354EE4ED1}
+	EndGlobalSection
+EndGlobal
