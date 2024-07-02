@@ -1,0 +1,10 @@
+D:\C#\DZ 11.06\DZ 11.06\bin\Debug\DZ 11.06.exe.config
+D:\C#\DZ 11.06\DZ 11.06\bin\Debug\DZ 11.06.exe
+D:\C#\DZ 11.06\DZ 11.06\bin\Debug\DZ 11.06.pdb
+D:\C#\DZ 11.06\DZ 11.06\obj\Debug\DZ 11.06.csproj.AssemblyReference.cache
+D:\C#\DZ 11.06\DZ 11.06\obj\Debug\DZ_11._06.Form1.resources
+D:\C#\DZ 11.06\DZ 11.06\obj\Debug\DZ_11._06.Properties.Resources.resources
+D:\C#\DZ 11.06\DZ 11.06\obj\Debug\DZ 11.06.csproj.GenerateResource.cache
+D:\C#\DZ 11.06\DZ 11.06\obj\Debug\DZ 11.06.csproj.CoreCompileInputs.cache
+D:\C#\DZ 11.06\DZ 11.06\obj\Debug\DZ 11.06.exe
+D:\C#\DZ 11.06\DZ 11.06\obj\Debug\DZ 11.06.pdb
